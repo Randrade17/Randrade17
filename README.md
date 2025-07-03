@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Randrade17/Randrade17/output/snake.svg" alt="Snake animation" />
-
-###
